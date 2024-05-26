@@ -1,18 +1,4 @@
 
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  img {
-    margin: 10px;
-    width: 50px;
-    height: auto;
-  }
-</style>
-</head>
-<body>
 
 # R4DEVN
 
