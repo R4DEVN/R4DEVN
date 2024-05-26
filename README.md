@@ -1,1 +1,2 @@
-<h3>👋Hello, my username is R4DEVN and I am a programmer in process, I would like to be able to master C++ and other languages.</h3>
+<h3>👋Hello, my username is R4DEVN</h3>
+<p>I am a programming student, I am interested in the C++ language and other programming languages.</p>
